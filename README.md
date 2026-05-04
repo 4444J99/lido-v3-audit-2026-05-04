@@ -62,3 +62,14 @@ this is a 90-minute pass, not a full engagement.
 ## Author
 
 [Anthony Padavano](https://github.com/4444J99) · [portfolio](https://4444j99.github.io/portfolio)
+
+**Currently taking engagements:**
+
+| Service | From | Format |
+|---------|------|--------|
+| Smart Contract / Security Audit | $2,000 | Engagement-based · 1M-context · fiat or crypto |
+| Systems Architecture Review | $500 | 2hr + written report |
+| Creative Infrastructure Audit | $1,000 | Half-day · 10-page deliverable |
+
+→ **[Book via the consult page](https://4444j99.github.io/portfolio/consult)** or reach
+directly via the email on the [GitHub profile](https://github.com/4444J99).
