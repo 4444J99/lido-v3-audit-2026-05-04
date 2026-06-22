@@ -1,0 +1,14 @@
+{
+  "schema": "value-repos/v1",
+  "description": "Repos discovered to hold real, ranked latent value. Build-out follows promotion.",
+  "repos": [
+    {
+      "repo": "organvm/lido-v3-audit-2026-05-04",
+      "organ": "III",
+      "promoted": "2026-06-22",
+      "thesis": "A Lido V3 Vaults audit log that found no critical bug but is a credibility/lead-gen asset wired to a live consult funnel ($2K+ audits), plus a reusable, EV-driven audit methodology (target-selection framework + 7-point pattern checklist + 1M-context cross-file workflow) the estate can templatize to mint more audit artifacts. F3/F4 remain a scoped bounty continuation against Lido's $2M Immunefi ceiling. Reusable estate capability + compounding revenue path, not archival.",
+      "first_task": "Extract the methodology from AUDIT.md into a reusable, repo-agnostic PLAYBOOK.md (EV target-selection framework + 7-point vulnerability pattern checklist + 1M-context cross-file workflow), converting the one-off log into a repeatable audit-generation engine.",
+      "discovery": "DISCOVERY.md"
+    }
+  ]
+}
